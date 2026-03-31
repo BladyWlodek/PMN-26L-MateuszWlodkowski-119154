@@ -73,4 +73,8 @@ for i, idx_in_tsne in enumerate(test_indices):
 plt.title("Wizualizacja t-SNE: Predykcja modelu KNN (k=5)")
 plt.grid(True, alpha=0.2)
 plt.legend(title="Gatunki")
+<<<<<<< HEAD
 plt.savefig("wizualizacja_predykcja.png")
+=======
+plt.savefig("wizualizacja_predykcja.png")
+>>>>>>> refs/remotes/origin/main
